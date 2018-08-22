@@ -415,43 +415,119 @@
 <p>hexo new “title”</p>
 </blockquote>
 <h1 id="write-a-article-based-on-Markdown"><a href="#write-a-article-based-on-Markdown" class="headerlink" title="write a article based on Markdown"></a>write a article based on <code>Markdown</code></h1><ol>
-<li><p>标题</p>
-<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><h1 id="一级标题-1"><a href="#一级标题-1" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题-1"><a href="#二级标题-1" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题-1"><a href="#三级标题-1" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题-1"><a href="#四级标题-1" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题-1"><a href="#五级标题-1" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题-1"><a href="#六级标题-1" class="headerlink" title="六级标题"></a>六级标题</h6></li>
-<li><p>字体形式<br> <em>斜体</em><br> <strong>粗体</strong><br> <strong><em>加粗斜体</em></strong><br> <del>删除线</del><br><em>斜体</em><br><strong>粗体</strong><br><strong><em>加粗斜体</em></strong><br><del>删除线</del></p>
+<li>标题</li>
+</ol>
+<ul>
+<li><p>语法：（注意在#后有空格）</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"># 一级标题</span><br><span class="line">## 二级标题</span><br><span class="line">### 三级标题</span><br><span class="line">#### 四级标题</span><br><span class="line">##### 五级标题</span><br><span class="line">###### 六级标题</span><br><span class="line">即：# + 空格 + 标题文字</span><br></pre></td></tr></table></figure>
 </li>
-<li><p>网页链接<br> <a href="http://taotaobao.github.io">my blog</a><br> <a href="https://taotaobao.github.io">https://taotaobao.github.io</a><br><a href="http://taotaobao.github.io">my blog</a><br><a href="https://taotaobao.github.io">https://taotaobao.github.io</a></p>
+<li><p>效果：</p>
+<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6></li>
+</ul>
+<ol start="2">
+<li>字体形式</li>
+</ol>
+<ul>
+<li><p>语法：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">*斜体*</span><br><span class="line">**粗体**</span><br><span class="line">***加粗斜体***</span><br><span class="line">~~删除线~~</span><br></pre></td></tr></table></figure>
 </li>
-<li><p>引用</p>
+<li><p>效果：<br><em>斜体</em><br><strong>粗体</strong><br><strong><em>加粗斜体</em></strong><br><del>删除线</del></p>
+</li>
+</ul>
+<ol start="3">
+<li>网页链接</li>
+</ol>
+<ul>
+<li><p>语法：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">[my blog](http://taotaobao.github.io)</span><br><span class="line">&lt;https://taotaobao.github.io&gt;</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>效果：<br><a href="http://taotaobao.github.io">my blog</a><br><a href="https://taotaobao.github.io">https://taotaobao.github.io</a></p>
+</li>
+</ul>
+<ol start="4">
+<li>引用</li>
+</ol>
+<ul>
+<li><p>语法：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&gt; 文字引用</span><br><span class="line">即：&gt; + 空格 + 文字</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>效果：</p>
 <blockquote>
-<p>文字引用<br>文字引用</p>
+<p>文字引用</p>
 </blockquote>
 </li>
-<li><p>代码<br> <code>单行代码</code></p>
- <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">多行代码</span><br><span class="line">多行代码</span><br></pre></td></tr></table></figure>
-</li>
+</ul>
+<ol start="5">
+<li>代码</li>
 </ol>
+<ul>
+<li><p>语法：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">`单行代码`</span><br><span class="line">aaa</span><br><span class="line">多行代码</span><br><span class="line">多行代码</span><br><span class="line">aaa</span><br><span class="line">（注：a = `）</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>效果：</p>
+</li>
+</ul>
 <p><code>单行代码</code></p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">多行代码</span><br><span class="line">多行代码</span><br></pre></td></tr></table></figure>
 <ol start="6">
-<li><h2 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h2> 或***</li>
+<li>分割线</li>
 </ol>
+<ul>
+<li><p>语法：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">***</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>效果：</p>
+</li>
+</ul>
 <hr>
 <hr>
 <ol start="7">
-<li>列表<br> *列表项<br> 或-列表项<br> 或+列表项</li>
+<li>列表</li>
 </ol>
 <ul>
-<li>列表项</li>
+<li><p>无序列表：</p>
+<ul>
+<li><p>语法：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">* 列表项</span><br><span class="line">- 列表项</span><br><span class="line">+ 列表项</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>效果：</p>
+</li>
 </ul>
 <ul>
 <li>列表项</li>
 </ul>
 <ul>
 <li>列表项</li>
+</ul>
+<ul>
+<li>列表项</li>
+</ul>
+</li>
+<li><p>有序列表</p>
+<ul>
+<li><p>语法：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">1. red</span><br><span class="line">2. green</span><br><span class="line">3. blue</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>效果：</p>
+</li>
+</ul>
+<ol>
+<li>red</li>
+<li>green</li>
+<li>blue</li>
+</ol>
+</li>
 </ul>
 <ol start="8">
-<li>表格<br>|左对齐|右对齐|居中|<br>|:—–|——:|:—-:|<br>|内容11|内容12|内容13|<br>|内容21|内容22|内容23|</li>
+<li>表格</li>
 </ol>
+<ul>
+<li><p>语法：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">|左对齐|右对齐|居中|</span><br><span class="line">|:-----|------:|:----:|</span><br><span class="line">|内容11|内容12|内容13|</span><br><span class="line">|内容21|内容22|内容23|</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>效果：</p>
+</li>
+</ul>
 <table>
 <thead>
 <tr>
@@ -473,16 +549,39 @@
 </tr>
 </tbody>
 </table>
-<p>(表格的语句上一行必须为空行，不然表格不生效。)<br>注意点：</p>
+<p>注：</p>
 <ul>
+<li>表格的语句上一行必须为空行，不然表格不生效。</li>
 <li>|、-、:之间的多余空格会被忽略，不影响布局。</li>
 <li>默认标题栏居中对齐，内容居左对齐。</li>
 <li>-:表示内容和标题栏居右对齐，:-表示内容和标题栏居左对齐，:-:表示内容和标题栏居中对齐。</li>
 <li>内容和|之间的多余空格会被忽略，每行第一个|和最后一个|可以省略，-的数量至少有一个。</li>
 </ul>
 <ol start="9">
-<li>图片<br>![] (/images/avatar.png) （注意没有空格！）<br><img src="/2018/08/22/Notes-for-hexo-writing/images/avatar.png" alt=""><br>注意：一般图片放在和hexo new “title”一起生成的同名的文件夹中，调用时候直接用title/picturename.png即可</li>
+<li>图片</li>
 </ol>
+<ul>
+<li><p>语法：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![](/Notes-for-hexo-writing/avatar.png)</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>效果<br><img src="/2018/08/22/Notes-for-hexo-writing/avatar.png" alt=""><br>注意：一般图片放在和hexo new “title”一起生成的同名的文件夹中，调用时候直接用title/picturename.png即可</p>
+</li>
+</ul>
+<ol start="10">
+<li>字体、字号和颜色</li>
+</ol>
+<ul>
+<li><p>语法：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">&lt;font face=&quot;黑体&quot;&gt;我是黑体字&lt;/font&gt;</span><br><span class="line">&lt;font face=&quot;微软雅黑&quot;&gt;我是微软雅黑字&lt;/font&gt;</span><br><span class="line">&lt;font face=&quot;STCAIYUN&quot;&gt;我是华文彩云字&lt;/font&gt;</span><br><span class="line">&lt;font color=#0099ff size=7 face=&quot;黑体&quot;&gt;我是黑体字&lt;/font&gt;</span><br><span class="line">&lt;font color=gray size=10 face=&quot;宋体&quot;&gt;我是宋体字&lt;/font&gt;</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>效果：</p>
+</li>
+</ul>
+<font face="黑体">我是黑体字</font><br><font face="微软雅黑">我是微软雅黑字</font><br><font face="STCAIYUN">我是华文彩云字</font><br><font color="#0099ff" size="3" face="黑体">我是3号#0099ff的黑体字</font><br><font color="gray" size="5" face="宋体">我是5号灰色宋体字</font>
+
+<ul>
+<li>颜色名称色值表：<br><img src="/2018/08/22/Notes-for-hexo-writing/c1.jpeg" alt=""><br><img src="/2018/08/22/Notes-for-hexo-writing/c2.jpeg" alt=""><br><img src="/2018/08/22/Notes-for-hexo-writing/c3.jpeg" alt=""><br><img src="/2018/08/22/Notes-for-hexo-writing/c4.jpeg" alt=""><br><img src="/2018/08/22/Notes-for-hexo-writing/c5.jpeg" alt=""><br><img src="/2018/08/22/Notes-for-hexo-writing/c6.jpeg" alt=""><br><img src="/2018/08/22/Notes-for-hexo-writing/c7.jpeg" alt=""></li>
+</ul>
 
           
         
