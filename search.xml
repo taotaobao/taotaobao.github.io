@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Notes for hexo writing]]></title>
+    <url>%2F2018%2F08%2F22%2FNotes-for-hexo-writing%2F</url>
+    <content type="text"><![CDATA[create a article hexo new “title” write a article based on Markdown 标题 一级标题二级标题三级标题四级标题五级标题六级标题一级标题二级标题三级标题四级标题五级标题六级标题 字体形式 斜体 粗体 加粗斜体 删除线斜体粗体加粗斜体删除线 网页链接 my blog https://taotaobao.github.iomy bloghttps://taotaobao.github.io 引用 文字引用文字引用 代码 单行代码 12多行代码多行代码 单行代码 12多行代码多行代码 分割线 或*** 列表 *列表项 或-列表项 或+列表项 列表项 列表项 列表项 表格|左对齐|右对齐|居中||:—–|——:|:—-:||内容11|内容12|内容13||内容21|内容22|内容23| 表头1左对齐 表头2右对齐 表头3居中 内容11 内容12 内容13 内容21 内容22 内容23 (表格的语句上一行必须为空行，不然表格不生效。)注意点： |、-、:之间的多余空格会被忽略，不影响布局。 默认标题栏居中对齐，内容居左对齐。 -:表示内容和标题栏居右对齐，:-表示内容和标题栏居左对齐，:-:表示内容和标题栏居中对齐。 内容和|之间的多余空格会被忽略，每行第一个|和最后一个|可以省略，-的数量至少有一个。 图片![] (/images/avatar.png) （注意没有空格！）注意：一般图片放在和hexo new “title”一起生成的同名的文件夹中，调用时候直接用title/picturename.png即可]]></content>
+      <categories>
+        <category>hexo notes</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello, World!]]></title>
     <url>%2F2018%2F08%2F21%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to TaoTaoBao’s Blog Every blog starts with ‘Hello World!’, so do mine. I am TaoTaoBao, the maker of this Blog. My Blog contains my occational thoughts and records some tiny parts of my life (happiness and sorrow). Also, TaoTaoBao’s Blog is the place where I write articles about CFA learning and Fintech. I’d like to study finance and economics in both fundamental and technical ways. I paln to include the prospectus study, which is, I think, the best way to understand the industry. Last but not least, I will blog my English learning details, which I hope can motivate me to learn English better.]]></content>
