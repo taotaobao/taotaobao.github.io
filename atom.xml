@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TaoTaoBao</title>
+  
+  <subtitle>陶陶宝</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://taotaobao.github.io/"/>
+  <updated>2018-08-23T03:27:07.360Z</updated>
+  <id>http://taotaobao.github.io/</id>
+  
+  <author>
+    <name>TaoTaoBao</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Notes for Blog Writing by Hexo and NexT</title>
+    <link href="http://taotaobao.github.io/2018/08/22/Notes-for-hexo-writing/"/>
+    <id>http://taotaobao.github.io/2018/08/22/Notes-for-hexo-writing/</id>
+    <published>2018-08-22T12:41:29.000Z</published>
+    <updated>2018-08-23T03:27:07.360Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Create-a-article&quot;&gt;&lt;a href=&quot;#Create-a-article&quot; class=&quot;headerlink&quot; title=&quot;Create a article&quot;&gt;&lt;/a&gt;Create a article&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;hexo new “title”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;Write-a-article-based-on-Markdown&quot;&gt;&lt;a href=&quot;#Write-a-article-based-on-Markdown&quot; class=&quot;headerlink&quot; title=&quot;Write a article based on Markdown&quot;&gt;&lt;/a&gt;Write a article based on &lt;code&gt;Markdown&lt;/code&gt;&lt;/h1&gt;&lt;h2 id=&quot;Title&quot;&gt;&lt;a href=&quot;#Title&quot; class=&quot;headerlink&quot; title=&quot;Title&quot;&gt;&lt;/a&gt;Title&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;syntax：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;# first title&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;## second title&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;### third title&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;#### fourth title&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;##### fifth title&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;###### sixth title&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Notes：# + space + title name&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;effects：&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="notes" scheme="http://taotaobao.github.io/categories/notes/"/>
+    
+    
+      <category term="hexo" scheme="http://taotaobao.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello, World!</title>
+    <link href="http://taotaobao.github.io/2018/08/21/hello-world/"/>
+    <id>http://taotaobao.github.io/2018/08/21/hello-world/</id>
+    <published>2018-08-21T12:16:23.000Z</published>
+    <updated>2018-08-23T01:58:56.967Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Welcome-to-TaoTaoBao’s-Blog&quot;&gt;&lt;a href=&quot;#Welcome-to-TaoTaoBao’s-Blog&quot; class=&quot;headerlink&quot; title=&quot; Welcome to TaoTaoBao’s Blog
+        
+      
+    
+    </summary>
+    
+      <category term="life" scheme="http://taotaobao.github.io/categories/life/"/>
+    
+    
+      <category term="Thoughts" scheme="http://taotaobao.github.io/tags/Thoughts/"/>
+    
+      <category term="life" scheme="http://taotaobao.github.io/tags/life/"/>
+    
+  </entry>
+  
+</feed>
