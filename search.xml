@@ -8,7 +8,7 @@
         <category>life</category>
       </categories>
       <tags>
-        <tag>Thoughts</tag>
+        <tag>thoughts</tag>
       </tags>
   </entry>
   <entry>
@@ -19,8 +19,8 @@
         <category>notes</category>
       </categories>
       <tags>
-        <tag>Hexo</tag>
-        <tag>Markdown</tag>
+        <tag>markdown</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -31,7 +31,8 @@
         <category>notes</category>
       </categories>
       <tags>
-        <tag>Markdown， Hexo</tag>
+        <tag>markdown</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -42,7 +43,7 @@
         <category>life</category>
       </categories>
       <tags>
-        <tag>Thoughts</tag>
+        <tag>thoughts</tag>
       </tags>
   </entry>
 </search>
