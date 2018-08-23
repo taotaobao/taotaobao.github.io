@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://taotaobao.github.io/"/>
-  <updated>2018-08-23T12:47:50.868Z</updated>
+  <updated>2018-08-23T12:58:00.074Z</updated>
   <id>http://taotaobao.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://taotaobao.github.io/2018/08/23/20180823-plans-about-the-blog-contruction/"/>
     <id>http://taotaobao.github.io/2018/08/23/20180823-plans-about-the-blog-contruction/</id>
     <published>2018-08-23T12:07:53.000Z</published>
-    <updated>2018-08-23T12:47:50.868Z</updated>
+    <updated>2018-08-23T12:58:00.074Z</updated>
     
     <summary type="html">
     
@@ -40,7 +40,7 @@
       <category term="life" scheme="http://taotaobao.github.io/categories/life/"/>
     
     
-      <category term="thoughts" scheme="http://taotaobao.github.io/tags/thoughts/"/>
+      <category term="Thoughts" scheme="http://taotaobao.github.io/tags/Thoughts/"/>
     
   </entry>
   
@@ -77,7 +77,7 @@
     <link href="http://taotaobao.github.io/2018/08/22/Notes-for-hexo-writing/"/>
     <id>http://taotaobao.github.io/2018/08/22/Notes-for-hexo-writing/</id>
     <published>2018-08-22T12:41:29.000Z</published>
-    <updated>2018-08-23T11:52:26.017Z</updated>
+    <updated>2018-08-23T12:58:35.665Z</updated>
     
     <summary type="html">
     
@@ -96,9 +96,7 @@
       <category term="notes" scheme="http://taotaobao.github.io/categories/notes/"/>
     
     
-      <category term="Hexo" scheme="http://taotaobao.github.io/tags/Hexo/"/>
-    
-      <category term="Markdown" scheme="http://taotaobao.github.io/tags/Markdown/"/>
+      <category term="Markdown， Hexo" scheme="http://taotaobao.github.io/tags/Markdown%EF%BC%8C-Hexo/"/>
     
   </entry>
   
@@ -107,7 +105,7 @@
     <link href="http://taotaobao.github.io/2018/08/21/hello-world/"/>
     <id>http://taotaobao.github.io/2018/08/21/hello-world/</id>
     <published>2018-08-21T12:16:23.000Z</published>
-    <updated>2018-08-23T12:47:58.580Z</updated>
+    <updated>2018-08-23T12:57:50.986Z</updated>
     
     <summary type="html">
     
@@ -124,7 +122,7 @@
       <category term="life" scheme="http://taotaobao.github.io/categories/life/"/>
     
     
-      <category term="thoughts" scheme="http://taotaobao.github.io/tags/thoughts/"/>
+      <category term="Thoughts" scheme="http://taotaobao.github.io/tags/Thoughts/"/>
     
   </entry>
   
