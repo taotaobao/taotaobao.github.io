@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://taotaobao.github.io/"/>
-  <updated>2018-08-23T06:44:30.465Z</updated>
+  <updated>2018-08-23T07:16:04.320Z</updated>
   <id>http://taotaobao.github.io/</id>
   
   <author>
@@ -21,18 +21,17 @@
     <link href="http://taotaobao.github.io/2018/08/23/Notes-for-Markdown/"/>
     <id>http://taotaobao.github.io/2018/08/23/Notes-for-Markdown/</id>
     <published>2018-08-23T05:56:18.000Z</published>
-    <updated>2018-08-23T06:44:30.465Z</updated>
+    <updated>2018-08-23T07:16:04.320Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;hr&gt;
-&lt;p&gt;This note is a follow-up of &lt;a href=&quot;https://taotaobao.github.io/2018/08/22/Notes-for-hexo-writing/&quot;&gt;Notes for Blog Writing by Hexo
-        
-      
+      &lt;hr&gt;
+&lt;p&gt;This note is a follow-up of &lt;a href=&quot;https://taotaobao.github.io/2018/08/22/Notes-for-hexo-writing/&quot;&gt;Notes for Blog Writing by Hexo and NexT – basic syntax&lt;/a&gt;. These notes will form a serie of notes about &lt;code&gt;Hexo&lt;/code&gt;, &lt;code&gt;NexT&lt;/code&gt; and &lt;code&gt;Markdown&lt;/code&gt;.&lt;/p&gt;
+&lt;h1 id=&quot;Switch-to-certain-position-within-a-page&quot;&gt;&lt;a href=&quot;#Switch-to-certain-position-within-a-page&quot; class=&quot;headerlink&quot; title=&quot;Switch to certain position within a page&quot;&gt;&lt;/a&gt;Switch to certain position within a page&lt;/h1&gt;&lt;h2 id=&quot;First-method&quot;&gt;&lt;a href=&quot;#First-method&quot; class=&quot;headerlink&quot; title=&quot;First method&quot;&gt;&lt;/a&gt;First method&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Syntax&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;* [1. Introduction](#1)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	* [1.1 History](#1.1)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;lt;h1 id=&amp;quot;1&amp;quot;&amp;gt;1. Introduction&amp;lt;/h1&amp;gt; //Notes: h1 means # and h2 means ##&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Brief introduction&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;lt;h2 id=&amp;quot;1.1&amp;quot;&amp;gt;1.1 History&amp;lt;/h2&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;History incidents&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Notes: [name](# + anchor) ; &amp;lt;h2 id=&amp;quot;anchor&amp;quot;&amp;gt;position&amp;lt;/h2&amp;gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;effets:&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
     
     </summary>
     
