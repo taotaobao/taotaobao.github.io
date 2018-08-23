@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://taotaobao.github.io/"/>
-  <updated>2018-08-23T11:52:05.058Z</updated>
+  <updated>2018-08-23T12:36:38.666Z</updated>
   <id>http://taotaobao.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20180823 plans of blog contruction</title>
+    <link href="http://taotaobao.github.io/2018/08/23/20180823-plans-about-the-blog-contruction/"/>
+    <id>http://taotaobao.github.io/2018/08/23/20180823-plans-about-the-blog-contruction/</id>
+    <published>2018-08-23T12:07:53.000Z</published>
+    <updated>2018-08-23T12:36:38.666Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;h1 id=&quot;今天解决的问题：&quot;&gt;&lt;a href=&quot;#今天解决的问题：&quot; class=&quot;headerlink&quot; title=&quot;今天解决的问题：&quot;&gt;&lt;/a&gt;今天解决的问题：&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;阅读量重复记录
+        
+      
+    
+    </summary>
+    
+      <category term="life" scheme="http://taotaobao.github.io/categories/life/"/>
+    
+    
+      <category term="thoughts" scheme="http://taotaobao.github.io/tags/thoughts/"/>
+    
+  </entry>
   
   <entry>
     <title>Notes for Markdown -- switch within one page</title>
@@ -79,7 +107,7 @@
     <link href="http://taotaobao.github.io/2018/08/21/hello-world/"/>
     <id>http://taotaobao.github.io/2018/08/21/hello-world/</id>
     <published>2018-08-21T12:16:23.000Z</published>
-    <updated>2018-08-23T11:56:44.633Z</updated>
+    <updated>2018-08-23T12:25:17.056Z</updated>
     
     <summary type="html">
     
@@ -96,9 +124,7 @@
       <category term="life" scheme="http://taotaobao.github.io/categories/life/"/>
     
     
-      <category term="Thoughts" scheme="http://taotaobao.github.io/tags/Thoughts/"/>
-    
-      <category term="life" scheme="http://taotaobao.github.io/tags/life/"/>
+      <category term="thoughts" scheme="http://taotaobao.github.io/tags/thoughts/"/>
     
   </entry>
   
