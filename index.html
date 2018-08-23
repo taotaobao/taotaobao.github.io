@@ -189,7 +189,7 @@
   <div class="container sidebar-position-left 
   page-home">
     <div class="headband"></div>
-
+    
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
       <div class="header-inner"><div class="site-brand-wrapper">
   <div class="site-meta ">
@@ -339,6 +339,187 @@
   
   
   <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://taotaobao.github.io/2018/08/23/Notes-for-Markdown/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="TaoTaoBao">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar2.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="TaoTaoBao">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/2018/08/23/Notes-for-Markdown/" itemprop="url">Notes for Markdown -- switch within one page</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">Posted on</span>
+              
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-08-23T13:56:18+08:00">
+                2018-08-23
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">In</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/notes/" itemprop="url" rel="index">
+                    <span itemprop="name">notes</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+          
+             <span id="/2018/08/23/Notes-for-Markdown/" class="leancloud_visitors" data-flag-title="Notes for Markdown -- switch within one page">
+               <span class="post-meta-divider">|</span>
+               <span class="post-meta-item-icon">
+                 <i class="fa fa-eye"></i>
+               </span>
+          
+                 <span class="post-meta-item-text">Views&#58;</span>
+               
+                 <span class="leancloud-visitors-count"></span>
+             </span>
+
+          
+
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <hr>
+<p>This note is a follow-up of <a href="https://taotaobao.github.io/2018/08/22/Notes-for-hexo-writing/">Notes for Blog Writing by Hexo and NexT – basic syntax</a>. These notes will form a serie of notes about <code>Hexo</code>, <code>NexT</code> and <code>Markdown</code>.</p>
+<h1 id="Switch-to-certain-position-within-a-page"><a href="#Switch-to-certain-position-within-a-page" class="headerlink" title="Switch to certain position within a page"></a>Switch to certain position within a page</h1><h2 id="First-method"><a href="#First-method" class="headerlink" title="First method"></a>First method</h2><ul>
+<li><p>Syntax</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">* [1. Introduction](#1)</span><br><span class="line">	* [1.1 History](#1.1)</span><br><span class="line"></span><br><span class="line">&lt;h1 id=&quot;1&quot;&gt;1. Introduction&lt;/h1&gt; //Notes: h1 means # and h2 means ##</span><br><span class="line">Brief introduction</span><br><span class="line">&lt;h2 id=&quot;1.1&quot;&gt;1.1 History&lt;/h2&gt;</span><br><span class="line">History incidents</span><br><span class="line"></span><br><span class="line">Notes: [name](# + anchor) ; &lt;h2 id=&quot;anchor&quot;&gt;position&lt;/h2&gt;</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>effets:</p>
+</li>
+</ul>
+<ul>
+<li><a href="#1">1. Introduction</a><ul>
+<li><a href="#1.1">1.1 History</a></li>
+</ul>
+</li>
+</ul>
+<p></p><h1 id="1">1. Introduction</h1><br>Brief introduction<p></p>
+<p></p><h2 id="1.1">1.1 History</h2><br>History incidents<p></p>
+<h2 id="Second-method"><a href="#Second-method" class="headerlink" title="Second method"></a>Second method</h2><ul>
+<li><p>syntax:</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;span id=&quot;jump&quot;&gt;Hello World&lt;/span&gt;</span><br><span class="line"></span><br><span class="line">[XXXX](#jump)</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>effects:<br><span id="jump">Hello World</span></p>
+</li>
+</ul>
+<p><a href="#jump">XXXX</a></p>
+
+          
+        
+      
+    </div>
+
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
     <link itemprop="mainEntityOfPage" href="http://taotaobao.github.io/2018/08/22/Notes-for-hexo-writing/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -358,7 +539,7 @@
         
           <h1 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2018/08/22/Notes-for-hexo-writing/" itemprop="url">Notes for Blog Writing by Hexo and NexT</a></h1>
+                <a class="post-title-link" href="/2018/08/22/Notes-for-hexo-writing/" itemprop="url">Notes for Blog Writing by Hexo and NexT -- basic syntax</a></h1>
         
 
         <div class="post-meta">
@@ -411,7 +592,7 @@
           
           
           
-             <span id="/2018/08/22/Notes-for-hexo-writing/" class="leancloud_visitors" data-flag-title="Notes for Blog Writing by Hexo and NexT">
+             <span id="/2018/08/22/Notes-for-hexo-writing/" class="leancloud_visitors" data-flag-title="Notes for Blog Writing by Hexo and NexT -- basic syntax">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
@@ -445,7 +626,8 @@
 
       
         
-          <h1 id="Create-a-article"><a href="#Create-a-article" class="headerlink" title="Create a article"></a>Create a article</h1><blockquote>
+          <hr>
+<h1 id="Create-a-article"><a href="#Create-a-article" class="headerlink" title="Create a article"></a>Create a article</h1><blockquote>
 <p>hexo new “title”</p>
 </blockquote>
 <h1 id="Write-a-article-based-on-Markdown"><a href="#Write-a-article-based-on-Markdown" class="headerlink" title="Write a article based on Markdown"></a>Write a article based on <code>Markdown</code></h1><h2 id="Title"><a href="#Title" class="headerlink" title="Title"></a>Title</h2><ul>
@@ -614,7 +796,8 @@
       
         
           
-            <h1 id="Welcome-to-TaoTaoBao’s-Blog"><a href="#Welcome-to-TaoTaoBao’s-Blog" class="headerlink" title=" Welcome to TaoTaoBao’s Blog "></a><center> Welcome to TaoTaoBao’s Blog </center></h1><p>Every blog starts with ‘Hello World!’, so do mine.</p>
+            <h1 id="Welcome-to-TaoTaoBao’s-Blog"><a href="#Welcome-to-TaoTaoBao’s-Blog" class="headerlink" title=" Welcome to TaoTaoBao’s Blog "></a><center> Welcome to TaoTaoBao’s Blog </center></h1><hr>
+<p>Every blog starts with ‘Hello World!’, so do mine.</p>
 <p>I am <code>TaoTaoBao</code>, the maker of this Blog.</p>
 <p>My Blog contains my <code>occational thoughts</code> and records <code>my life</code>, including normal life and research career with happiness and sorrow).</p>
 <p>Also, TaoTaoBao’s Blog is the place where I write articles about <code>CFA learning</code> and <code>Fintech</code>. I’d like to study finance and economics in both fundamental and technical ways. I plan to include the <code>prospectus study</code>, which is, I think, the best way to understand the industry.</p>
@@ -705,7 +888,7 @@
               
                 <a href="/archives">
               
-                  <span class="site-state-item-count">2</span>
+                  <span class="site-state-item-count">3</span>
                   <span class="site-state-item-name">posts</span>
                 </a>
               </div>
@@ -727,7 +910,7 @@
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">3</span>
+                  <span class="site-state-item-count">4</span>
                   <span class="site-state-item-name">tags</span>
                 </a>
               </div>

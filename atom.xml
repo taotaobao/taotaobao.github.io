@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://taotaobao.github.io/"/>
-  <updated>2018-08-23T03:27:07.360Z</updated>
+  <updated>2018-08-23T06:44:30.465Z</updated>
   <id>http://taotaobao.github.io/</id>
   
   <author>
@@ -17,15 +17,45 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Notes for Blog Writing by Hexo and NexT</title>
-    <link href="http://taotaobao.github.io/2018/08/22/Notes-for-hexo-writing/"/>
-    <id>http://taotaobao.github.io/2018/08/22/Notes-for-hexo-writing/</id>
-    <published>2018-08-22T12:41:29.000Z</published>
-    <updated>2018-08-23T03:27:07.360Z</updated>
+    <title>Notes for Markdown -- switch within one page</title>
+    <link href="http://taotaobao.github.io/2018/08/23/Notes-for-Markdown/"/>
+    <id>http://taotaobao.github.io/2018/08/23/Notes-for-Markdown/</id>
+    <published>2018-08-23T05:56:18.000Z</published>
+    <updated>2018-08-23T06:44:30.465Z</updated>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;Create-a-article&quot;&gt;&lt;a href=&quot;#Create-a-article&quot; class=&quot;headerlink&quot; title=&quot;Create a article&quot;&gt;&lt;/a&gt;Create a article&lt;/h1&gt;&lt;blockquote&gt;
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;p&gt;This note is a follow-up of &lt;a href=&quot;https://taotaobao.github.io/2018/08/22/Notes-for-hexo-writing/&quot;&gt;Notes for Blog Writing by Hexo
+        
+      
+    
+    </summary>
+    
+      <category term="notes" scheme="http://taotaobao.github.io/categories/notes/"/>
+    
+    
+      <category term="Hexo" scheme="http://taotaobao.github.io/tags/Hexo/"/>
+    
+      <category term="Markdown" scheme="http://taotaobao.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Notes for Blog Writing by Hexo and NexT -- basic syntax</title>
+    <link href="http://taotaobao.github.io/2018/08/22/Notes-for-hexo-writing/"/>
+    <id>http://taotaobao.github.io/2018/08/22/Notes-for-hexo-writing/</id>
+    <published>2018-08-22T12:41:29.000Z</published>
+    <updated>2018-08-23T06:43:50.450Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+&lt;h1 id=&quot;Create-a-article&quot;&gt;&lt;a href=&quot;#Create-a-article&quot; class=&quot;headerlink&quot; title=&quot;Create a article&quot;&gt;&lt;/a&gt;Create a article&lt;/h1&gt;&lt;blockquote&gt;
 &lt;p&gt;hexo new “title”&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h1 id=&quot;Write-a-article-based-on-Markdown&quot;&gt;&lt;a href=&quot;#Write-a-article-based-on-Markdown&quot; class=&quot;headerlink&quot; title=&quot;Write a article based on Markdown&quot;&gt;&lt;/a&gt;Write a article based on &lt;code&gt;Markdown&lt;/code&gt;&lt;/h1&gt;&lt;h2 id=&quot;Title&quot;&gt;&lt;a href=&quot;#Title&quot; class=&quot;headerlink&quot; title=&quot;Title&quot;&gt;&lt;/a&gt;Title&lt;/h2&gt;&lt;ul&gt;
@@ -39,7 +69,9 @@
       <category term="notes" scheme="http://taotaobao.github.io/categories/notes/"/>
     
     
-      <category term="hexo" scheme="http://taotaobao.github.io/tags/hexo/"/>
+      <category term="Hexo" scheme="http://taotaobao.github.io/tags/Hexo/"/>
+    
+      <category term="Markdown" scheme="http://taotaobao.github.io/tags/Markdown/"/>
     
   </entry>
   
@@ -48,7 +80,7 @@
     <link href="http://taotaobao.github.io/2018/08/21/hello-world/"/>
     <id>http://taotaobao.github.io/2018/08/21/hello-world/</id>
     <published>2018-08-21T12:16:23.000Z</published>
-    <updated>2018-08-23T01:58:56.967Z</updated>
+    <updated>2018-08-23T06:10:34.811Z</updated>
     
     <summary type="html">
     
