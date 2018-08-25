@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://taotaobao.github.io/"/>
-  <updated>2018-08-24T19:22:13.796Z</updated>
+  <updated>2018-08-25T14:15:59.571Z</updated>
   <id>http://taotaobao.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://taotaobao.github.io/2018/08/25/20180825-distribing/"/>
     <id>http://taotaobao.github.io/2018/08/25/20180825-distribing/</id>
     <published>2018-08-24T18:29:19.000Z</published>
-    <updated>2018-08-24T19:22:13.796Z</updated>
+    <updated>2018-08-25T14:15:59.571Z</updated>
     
     <summary type="html">
     
@@ -132,21 +132,16 @@
   </entry>
   
   <entry>
-    <title>Hello, World!</title>
+    <title>Welcome to TaoTaoBao&#39;s Blog</title>
     <link href="http://taotaobao.github.io/2018/08/21/hello-world/"/>
     <id>http://taotaobao.github.io/2018/08/21/hello-world/</id>
     <published>2018-08-21T12:16:23.000Z</published>
-    <updated>2018-08-23T17:30:23.476Z</updated>
+    <updated>2018-08-25T14:25:50.753Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;Welcome-to-TaoTaoBao’s-Blog&quot;&gt;&lt;a href=&quot;#Welcome-to-TaoTaoBao’s-Blog&quot; class=&quot;headerlink&quot; title=&quot; Welcome to TaoTaoBao’s Blog
-        
-      
+      &lt;p&gt;I am &lt;code&gt;TaoTaoBao&lt;/code&gt;, the creater of this Blog.&lt;/p&gt;
+&lt;p&gt;My Blog contains my &lt;code&gt;occational thoughts&lt;/code&gt; and records &lt;code&gt;my life&lt;/code&gt;, including normal life and research career with happiness and sorrow.&lt;/p&gt;
     
     </summary>
     
