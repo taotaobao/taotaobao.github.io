@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://taotaobao.github.io/"/>
-  <updated>2018-08-25T14:15:59.571Z</updated>
+  <updated>2018-08-25T16:42:11.807Z</updated>
   <id>http://taotaobao.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://taotaobao.github.io/2018/08/25/20180825-distribing/"/>
     <id>http://taotaobao.github.io/2018/08/25/20180825-distribing/</id>
     <published>2018-08-24T18:29:19.000Z</published>
-    <updated>2018-08-25T14:15:59.571Z</updated>
+    <updated>2018-08-25T16:42:11.807Z</updated>
     
     <summary type="html">
     
@@ -64,7 +64,7 @@
     <link href="http://taotaobao.github.io/2018/08/23/20180823-plans-about-the-blog-contruction/"/>
     <id>http://taotaobao.github.io/2018/08/23/20180823-plans-about-the-blog-contruction/</id>
     <published>2018-08-23T12:07:53.000Z</published>
-    <updated>2018-08-24T05:59:24.820Z</updated>
+    <updated>2018-08-25T16:01:48.673Z</updated>
     
     <summary type="html">
     
@@ -72,7 +72,7 @@
 &lt;h1 id=&quot;今天解决的问题：&quot;&gt;&lt;a href=&quot;#今天解决的问题：&quot; class=&quot;headerlink&quot; title=&quot;今天解决的问题：&quot;&gt;&lt;/a&gt;今天解决的问题：&lt;/h1&gt;&lt;ol&gt;
 &lt;li&gt;阅读量重复记录 （其实就是lean-analytic重复了，导致每次阅读都记录了两遍）&lt;br&gt;可以在&lt;a href=&quot;https://leancloud.cn/dashboard/applist.html#/apps&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;后台&lt;/a&gt;大家的访问情况了。&lt;/li&gt;
 &lt;li&gt;增加copyright水印&lt;/li&gt;
-&lt;li&gt;增加评论&lt;br&gt;韩国的评论系统&lt;a href=&quot;https://livere.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;来必力&lt;/a&gt;，国内多家都关闭或者需要备案，Disque有需要翻墙太麻烦。&lt;/li&gt;&lt;/ol&gt;
+&lt;li&gt;增加评论&lt;br&gt;韩国的评论系统&lt;a href=&quot;https://livere.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;来必力&lt;/a&gt;，国内评论系统不是关闭或者需要备案，而国外的Disque又需要翻墙太麻烦。&lt;/li&gt;&lt;/ol&gt;
     
     </summary>
     
